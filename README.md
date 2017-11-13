@@ -1,0 +1,1 @@
+My implementation of vending-machine-kata written in Java8 and tested in Spock.
